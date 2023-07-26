@@ -1,0 +1,66 @@
+body {
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card {
+    background-color: white;
+    height: 500px;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.title {
+    margin:10px;
+}
+
+.title p {
+    margin: 0;
+}
+
+.header {
+    height: 50px;
+    width: 100%;
+    display: flex; 
+    font-size: 11px;  
+}
+
+.fa-html5 {
+    font-size: 30px;
+    margin: 10px;
+}
+
+.fa-ellipsis-vertical {
+    font-size: 30px;
+    margin: 10px;
+    margin-left: auto;
+}
+
+p {
+    font-size: 11px;
+}
+
+.imagen {
+    height: 300px;
+    width: 100%;
+}
+
+img {
+    height: 100%;
+    width: 100%;
+    
+}
+
+.text {
+    padding: 10px;
+}
+
+.icons {
+    font-size: 20px;
+    display: flex;
+}
+
+.fa-bookmark {
+    margin-left: auto;
+}
